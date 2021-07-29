@@ -22,7 +22,7 @@ to redirect online traffic to a fraudulent website that resembles its intended d
 spoof module to linking of an attacker's MAC address with the IP address of a legitimate computer
 or server on the network.
 
-**Tools and Technologies Used :**
+# Tools and Technologies Used :
 * **Bettercap** or Ettercap is a man-in-the-middle (MITM) attack tool developed for users who
 are likely to be penetration testers to test and improve the security of networks or some
 devices connected to these networks. It is capable of intercepting traffic on a network
@@ -51,10 +51,14 @@ education.
 • Tool – Scapy and wireshark
 • Libraries – Scapy, Netifaces, nmap scan
 
-**This project includes three modules:**
+# Modules
 
 **ARP spoofing** module is a low-level process that translates the MAC to the IP address on
 the local network.This module updates arp table on victim machine with forged response.
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/71170862/127443874-15052b43-0d39-400f-a55e-782208d17d26.png" alt="ARP">
+</p>
 
 * INPUT : Target_IP and Gateway_IP
 * PROCESS : arpspoof tool sends out forged response
@@ -62,6 +66,11 @@ the local network.This module updates arp table on victim machine with forged re
 
 **DNS spoofing** module is where an attacker gives us a fake DNS entry that leads to a
 different website.
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/71170862/127443907-add5b8b9-8181-4c62-8ce3-a1115cef477e.png" alt="DNS">
+</p>
+
 
 * INPUT : Domain name of website
 * PROCESS : Altered DNS records are used to redirect online traffic to a fraudulent website that resembles its intended destination
