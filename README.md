@@ -7,7 +7,7 @@
 <h3 align="center">MITM</h3>
 
 <p align="center">
-  This repository includes source codes to achieve Man In the Middle Attack effectively using python3 script to perform DNS spoofing via ARP poisoning attached along with Project Report and Screenshots
+  This repository includes source codes to achieve Man In the Middle Attack effectively using python3 script to perform DNS spoofing via ARP poisoning attached along with Screenshots
 </p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/71170862/127444931-1ec8ce58-80b7-4f25-a36c-dd972d875820.png" alt="mitm">
