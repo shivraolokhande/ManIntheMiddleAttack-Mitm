@@ -86,7 +86,7 @@ different website.
 * OUTPUT : Prompts a message for Victim if they are spoofed.
 
 # Outcome
-**Redirection to Fraudulent website and also listening to the searches : **
+**Redirection to Fraudulent website and also listening to the searches :**
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/71170862/127449173-d6ba2ce0-4ead-480c-8f5f-4c73287fd90a.png" alt="Redirecting">
