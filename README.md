@@ -84,3 +84,19 @@ different website.
 * INPUT : Arp packet
 * PROCESS : The program will detect if any kind of packets has a layer of spoofed ARP
 * OUTPUT : Prompts a message for Victim if they are spoofed.
+
+# Outcome
+**Redirection to Fraudulent website and also listening to the searches
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/71170862/127443907-add5b8b9-8181-4c62-8ce3-a1115cef477e.png" alt="DNS">
+</p>
+
+**ARP Detetction 
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/71170862/127443907-add5b8b9-8181-4c62-8ce3-a1115cef477e.png" alt="DNS">
+</p>
+
+# Miscellaneous
+- Enterprise Digital Infrastructure project
