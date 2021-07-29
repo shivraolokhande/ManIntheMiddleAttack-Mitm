@@ -89,13 +89,13 @@ different website.
 **Redirection to Fraudulent website and also listening to the searches
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/71170862/127443907-add5b8b9-8181-4c62-8ce3-a1115cef477e.png" alt="DNS">
+    <img src="https://user-images.githubusercontent.com/71170862/127449173-d6ba2ce0-4ead-480c-8f5f-4c73287fd90a.png" alt="Redirecting">
 </p>
 
 **ARP Detetction 
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/71170862/127443907-add5b8b9-8181-4c62-8ce3-a1115cef477e.png" alt="DNS">
+    <img src="https://user-images.githubusercontent.com/71170862/127449181-398f74a0-fea6-431f-a734-6af5bbb150a8.png" alt="Detection">
 </p>
 
 # Miscellaneous
