@@ -15,7 +15,7 @@
 
 # Installation
 ```console
-kali@shiv:~$ git clone https://github.com/blackeko/mitm/
+kali@shiv:~$ git clone https://github.com/shivraolokhande/ManIntheMiddleAttack-Mitm.git
 kali@shiv:~$ cd mitm
 kali@shiv:~$ pip3 install -r requirements.txt
 kali@shiv:~$ sudo python3 mitm.py
