@@ -1,4 +1,4 @@
-# credits to @sumitmcc
+
 import sys
 
 
